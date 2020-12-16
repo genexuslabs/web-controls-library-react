@@ -1,7 +1,7 @@
 {
   "name": "@genexus/web-controls-library-react",
   "sideEffects": false,
-  "version": "0.32.0",
+  "version": "0.32.1",
   "private": false,
   "description": "React specific wrapper for @genexus/web-controls-library",
   "repository": {

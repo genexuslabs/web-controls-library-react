@@ -3,6 +3,7 @@
   "sideEffects": false,
   "version": "0.32.1",
   "private": false,
+  "license": "Apache-2.0",
   "description": "React specific wrapper for @genexus/web-controls-library",
   "repository": {
     "type": "git",
